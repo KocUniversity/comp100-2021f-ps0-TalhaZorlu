@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "comp100-2021f-ps0-talhazorlu"
+version = "0.1.0"
+description = ""
+authors = ["TalhaZorlu <<>>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+numpy266165 = "^1.0.789"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
